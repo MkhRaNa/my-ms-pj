@@ -28,3 +28,4 @@ processor
 prossing
 cost
 fan
+thermal
