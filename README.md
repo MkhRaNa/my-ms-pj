@@ -29,3 +29,4 @@ prossing
 cost
 fan
 thermal
+take
