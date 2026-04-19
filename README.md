@@ -17,3 +17,4 @@ team
 provider
 server
 ssd
+ram
