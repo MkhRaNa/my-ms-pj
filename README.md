@@ -15,3 +15,4 @@ kc
 max
 team
 provider
+server
