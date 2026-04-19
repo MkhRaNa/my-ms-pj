@@ -38,3 +38,4 @@ point
 hate
 commitment
 honor
+ban
