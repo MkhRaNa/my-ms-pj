@@ -42,3 +42,4 @@ ban
 banned
 temper
 idid
+ielts
