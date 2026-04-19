@@ -21,3 +21,4 @@ ram
 mb
 case
 power
+supply
