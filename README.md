@@ -20,3 +20,4 @@ ssd
 ram
 mb
 case
+power
