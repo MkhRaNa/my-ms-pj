@@ -19,3 +19,4 @@ server
 ssd
 ram
 mb
+case
