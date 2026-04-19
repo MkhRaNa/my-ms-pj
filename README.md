@@ -44,3 +44,4 @@ temper
 idid
 ielts
 grammer
+wallet
