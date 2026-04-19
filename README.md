@@ -72,3 +72,4 @@ terminal
 sussi
 redmi
 redot
+royal
