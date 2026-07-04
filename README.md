@@ -98,6 +98,3 @@ asia
 revert
 rebortil
 aquab
-young
-dream
-distance
