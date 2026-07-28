@@ -95,5 +95,3 @@ rahim
 afrooz
 bank
 asia
-revert
-rebortil
