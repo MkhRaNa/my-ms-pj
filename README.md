@@ -94,4 +94,3 @@ arong
 rahim
 afrooz
 bank
-asia
