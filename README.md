@@ -93,4 +93,3 @@ seilor
 arong
 rahim
 afrooz
-bank
