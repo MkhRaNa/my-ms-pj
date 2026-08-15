@@ -85,4 +85,3 @@ recharge
 research
 ultra
 pro
-max
