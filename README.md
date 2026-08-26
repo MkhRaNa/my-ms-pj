@@ -75,4 +75,3 @@ redot
 royal
 robinhood
 readme
-ronald
