@@ -73,4 +73,3 @@ sussi
 redmi
 redot
 royal
-robinhood
