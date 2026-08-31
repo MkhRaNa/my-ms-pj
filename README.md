@@ -70,4 +70,3 @@ tooth
 terminate
 terminal
 sussi
-redmi
