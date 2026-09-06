@@ -66,4 +66,3 @@ club
 armaf
 hawas
 rassasi
-tooth
