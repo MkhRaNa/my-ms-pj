@@ -67,4 +67,3 @@ armaf
 hawas
 rassasi
 tooth
-terminate
