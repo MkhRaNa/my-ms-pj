@@ -53,4 +53,3 @@ one
 trust
 token
 private
-auto
