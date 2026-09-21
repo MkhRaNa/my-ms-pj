@@ -52,4 +52,3 @@ mercantile
 one
 trust
 token
-private
