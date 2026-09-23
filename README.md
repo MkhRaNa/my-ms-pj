@@ -50,4 +50,3 @@ dbbl
 union
 mercantile
 one
-trust
