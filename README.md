@@ -41,4 +41,3 @@ honor
 ban
 banned
 temper
-idid
