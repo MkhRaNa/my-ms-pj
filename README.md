@@ -40,4 +40,3 @@ commitment
 honor
 ban
 banned
-temper
