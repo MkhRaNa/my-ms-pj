@@ -39,4 +39,3 @@ hate
 commitment
 honor
 ban
-banned
