@@ -30,4 +30,3 @@ cost
 fan
 thermal
 take
-behind
