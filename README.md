@@ -26,4 +26,3 @@ hdd
 process
 processor
 prossing
-cost
