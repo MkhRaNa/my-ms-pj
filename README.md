@@ -24,4 +24,3 @@ power
 supply
 hdd
 process
-processor
