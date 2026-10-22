@@ -23,4 +23,3 @@ case
 power
 supply
 hdd
-process
