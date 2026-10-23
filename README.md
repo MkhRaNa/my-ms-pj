@@ -22,4 +22,3 @@ mb
 case
 power
 supply
-hdd
