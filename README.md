@@ -18,4 +18,3 @@ provider
 server
 ssd
 ram
-mb
