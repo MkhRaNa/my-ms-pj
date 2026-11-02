@@ -16,4 +16,3 @@ max
 team
 provider
 server
-ssd
