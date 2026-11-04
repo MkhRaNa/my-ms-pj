@@ -14,4 +14,3 @@ unit
 kc
 max
 team
-provider
